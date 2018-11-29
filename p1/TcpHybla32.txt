@@ -1,0 +1,38 @@
+Waf: Entering directory `/home/workspace/ns-allinone-3.26/ns-3.26/build'
+Waf: Leaving directory `/home/workspace/ns-allinone-3.26/ns-3.26/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (3.744s)
+Sink 0	TotalRx: 0.381632Mb	Throughput: 0.00636053Mbps
+Sink 1	TotalRx: 0.411648Mb	Throughput: 0.0068608Mbps
+Sink 2	TotalRx: 0.398784Mb	Throughput: 0.0066464Mbps
+Sink 3	TotalRx: 0.355904Mb	Throughput: 0.00593173Mbps
+Sink 4	TotalRx: 0.355904Mb	Throughput: 0.00593173Mbps
+Sink 5	TotalRx: 0.373056Mb	Throughput: 0.0062176Mbps
+Sink 6	TotalRx: 0.40736Mb	Throughput: 0.00678933Mbps
+Sink 7	TotalRx: 0.377344Mb	Throughput: 0.00628907Mbps
+Sink 8	TotalRx: 0.360192Mb	Throughput: 0.0060032Mbps
+Sink 9	TotalRx: 0.437376Mb	Throughput: 0.0072896Mbps
+Sink 10	TotalRx: 1.02054Mb	Throughput: 0.0170091Mbps
+Sink 11	TotalRx: 1.02054Mb	Throughput: 0.0170091Mbps
+Sink 12	TotalRx: 1.00339Mb	Throughput: 0.0167232Mbps
+Sink 13	TotalRx: 0.47168Mb	Throughput: 0.00786133Mbps
+Sink 14	TotalRx: 0.501696Mb	Throughput: 0.0083616Mbps
+Sink 15	TotalRx: 0.540288Mb	Throughput: 0.0090048Mbps
+Sink 16	TotalRx: 0.51456Mb	Throughput: 0.008576Mbps
+Sink 17	TotalRx: 0.441664Mb	Throughput: 0.00736107Mbps
+Sink 18	TotalRx: 0.467392Mb	Throughput: 0.00778987Mbps
+Sink 19	TotalRx: 1.94675Mb	Throughput: 0.0324459Mbps
+Sink 20	TotalRx: 2.2512Mb	Throughput: 0.03752Mbps
+Sink 21	TotalRx: 1.93389Mb	Throughput: 0.0322315Mbps
+Sink 22	TotalRx: 1.1792Mb	Throughput: 0.0196533Mbps
+Sink 23	TotalRx: 0.977664Mb	Throughput: 0.0162944Mbps
+Sink 24	TotalRx: 1.91674Mb	Throughput: 0.0319456Mbps
+Sink 25	TotalRx: 1.65946Mb	Throughput: 0.0276576Mbps
+Sink 26	TotalRx: 1.19635Mb	Throughput: 0.0199392Mbps
+Sink 27	TotalRx: 1.6809Mb	Throughput: 0.0280149Mbps
+Sink 28	TotalRx: 1.6809Mb	Throughput: 0.0280149Mbps
+Sink 29	TotalRx: 1.46221Mb	Throughput: 0.0243701Mbps
+Sink 30	TotalRx: 1.59085Mb	Throughput: 0.0265141Mbps
+Sink 31	TotalRx: 1.66374Mb	Throughput: 0.0277291Mbps
+
+Totals	TotalRx: 30.9808Mb	Throughput: 0.516347Mbps

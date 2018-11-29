@@ -1,0 +1,38 @@
+Waf: Entering directory `/home/workspace/ns-allinone-3.26/ns-3.26/build'
+Waf: Leaving directory `/home/workspace/ns-allinone-3.26/ns-3.26/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.868s)
+Sink 0	TotalRx: 1.67661Mb	Throughput: 0.0279435Mbps
+Sink 1	TotalRx: 1.5008Mb	Throughput: 0.0250133Mbps
+Sink 2	TotalRx: 1.37645Mb	Throughput: 0.0229408Mbps
+Sink 3	TotalRx: 1.35072Mb	Throughput: 0.022512Mbps
+Sink 4	TotalRx: 1.62515Mb	Throughput: 0.0270859Mbps
+Sink 5	TotalRx: 1.66374Mb	Throughput: 0.0277291Mbps
+Sink 6	TotalRx: 1.28211Mb	Throughput: 0.0213685Mbps
+Sink 7	TotalRx: 1.1449Mb	Throughput: 0.0190816Mbps
+Sink 8	TotalRx: 1.6423Mb	Throughput: 0.0273717Mbps
+Sink 9	TotalRx: 1.35501Mb	Throughput: 0.0225835Mbps
+Sink 10	TotalRx: 1.4279Mb	Throughput: 0.0237984Mbps
+Sink 11	TotalRx: 1.26496Mb	Throughput: 0.0210827Mbps
+Sink 12	TotalRx: 1.39789Mb	Throughput: 0.0232981Mbps
+Sink 13	TotalRx: 1.56083Mb	Throughput: 0.0260139Mbps
+Sink 14	TotalRx: 1.2135Mb	Throughput: 0.0202251Mbps
+Sink 15	TotalRx: 1.31642Mb	Throughput: 0.0219403Mbps
+Sink 16	TotalRx: 1.3936Mb	Throughput: 0.0232267Mbps
+Sink 17	TotalRx: 1.20922Mb	Throughput: 0.0201536Mbps
+Sink 18	TotalRx: 1.22208Mb	Throughput: 0.020368Mbps
+Sink 19	TotalRx: 1.24352Mb	Throughput: 0.0207253Mbps
+Sink 20	TotalRx: 1.20922Mb	Throughput: 0.0201536Mbps
+Sink 21	TotalRx: 1.11059Mb	Throughput: 0.0185099Mbps
+Sink 22	TotalRx: 1.20922Mb	Throughput: 0.0201536Mbps
+Sink 23	TotalRx: 1.05485Mb	Throughput: 0.0175808Mbps
+Sink 24	TotalRx: 1.04198Mb	Throughput: 0.0173664Mbps
+Sink 25	TotalRx: 1.1792Mb	Throughput: 0.0196533Mbps
+Sink 26	TotalRx: 1.15776Mb	Throughput: 0.019296Mbps
+Sink 27	TotalRx: 1.1449Mb	Throughput: 0.0190816Mbps
+Sink 28	TotalRx: 1.16634Mb	Throughput: 0.0194389Mbps
+Sink 29	TotalRx: 1.08486Mb	Throughput: 0.0180811Mbps
+Sink 30	TotalRx: 1.11488Mb	Throughput: 0.0185813Mbps
+Sink 31	TotalRx: 1.37645Mb	Throughput: 0.0229408Mbps
+
+Totals	TotalRx: 41.718Mb	Throughput: 0.695299Mbps

@@ -1,0 +1,9 @@
+Waf: Entering directory `/home/workspace/ns-allinone-3.26/ns-3.26/build'
+[ 941/2473] Compiling scratch/p1.cc
+[2460/2473] Linking build/scratch/p1
+Waf: Leaving directory `/home/workspace/ns-allinone-3.26/ns-3.26/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.970s)
+Sink 0	TotalRx: 51.9496Mb	Throughput: 0.865826Mbps
+
+Totals	TotalRx: 51.9496Mb	Throughput: 0.865826Mbps
